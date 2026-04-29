@@ -22,3 +22,4 @@ Ziel war es, den grundlegenden Git-Workflow kennenzulernen und praktisch anzuwen
 7. Pull Request erstellt
 8. Code überprüft und gemerged
 
+Änderung auf lokaler Kopie
