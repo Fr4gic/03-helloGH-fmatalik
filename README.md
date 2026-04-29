@@ -23,3 +23,5 @@ Ziel war es, den grundlegenden Git-Workflow kennenzulernen und praktisch anzuwen
 8. Code überprüft und gemerged
 
 Änderung auf lokaler Kopie
+Änderung auf GitHub
+
